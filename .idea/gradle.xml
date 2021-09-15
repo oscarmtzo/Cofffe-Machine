@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Chocolate" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Queens" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the given numbers are different" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Is between" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Check burgs" />
+            <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
