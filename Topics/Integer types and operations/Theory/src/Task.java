@@ -10,6 +10,6 @@ public class Task {
     System.out.println("b:" +b);
     System.out.println('z');
     char J ;
-    System.out.println( J);
+    //System.out.println( J);
   }
 }

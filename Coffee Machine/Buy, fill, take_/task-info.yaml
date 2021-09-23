@@ -361,5 +361,12 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/33/stages/178/implement#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: "Error in test #1\n\nProgram ran out of input. You tried to read more than\
+    \ expected.\n\nPlease find below the output of your program during this failed\
+    \ test.\nNote that the &#39;&gt;&#39; character indicates the beginning of the\
+    \ input line.\n\n---\n\nWrite action (buy, fill, take, remaining, exit): \n&gt;\
+    \ take\nI gave you $550\n\nWrite action (buy, fill, take, remaining, exit):"
+  time: Wed, 22 Sep 2021 20:22:10 UTC
+record: 4
